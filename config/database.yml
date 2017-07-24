@@ -21,3 +21,7 @@ test:
 
 production:
   <<: *default
+  host: sql12.freemysqlhosting.net
+  database: sql12186891
+  username: sql12186891
+  password: SchqlDG8hJ
